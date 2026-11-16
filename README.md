@@ -25,7 +25,7 @@ Completed
 
 
 ## Documentation
-The project report is available in this repository.
+The project report and sourcecode is available in this repository.
 
 ## Future Improvements
 - Monthly financial charts
